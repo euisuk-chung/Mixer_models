@@ -6,11 +6,15 @@ MLP Mixer related to Models (for archiving purpose)
 
 # Models (To Be) Reviewed
 
-1. MLP-Mixer
-2. Res-MLP
-3. S2-MLP
-4. Sparse-MLP 
-5. Swin-MLP
+- MLP-Mixer
+- G-MLP
+- Vision Permutator
+- Conv-Mixer
+- Conv-MLP
+- Res-MLP
+- S2-MLP
+- Sparse-MLP 
+- Swin-MLP
 
 # Citations
 ```bibtex
