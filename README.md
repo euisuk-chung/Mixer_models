@@ -2,7 +2,7 @@
 
 MLP Mixer related to Models (for archiving purpose)
 
-<img src="./mixer_milestone.png" width="500px"></img>
+<img src="./mixer_milestone.png" width="800px"></img>
 
 # Models (To Be) Reviewed
 

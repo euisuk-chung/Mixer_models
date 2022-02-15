@@ -1,4 +1,4 @@
-<img src="./mlp_mixer.png" width="500px"></img>
+<img src="./mlp_mixer.png" width="800px"></img>
 
 ## MLP Mixer (Pytorch)
 
