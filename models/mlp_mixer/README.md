@@ -1,15 +1,15 @@
-<img src="./mlp-mixer.png" width="500px"></img>
+<img src="./mlp_mixer.png" width="500px"></img>
 
-## MLP Mixer - Pytorch
+## MLP Mixer (Pytorch)
 
 MLP-Mixer : An all Architecture for Vision (<a href="https://arxiv.org/abs/2105.01601"> Link </a>)
 
 ## Paper Review
-<a href="https://youtu.be/Y-isY31Thkw">Chung Euisuk Video</a>
+Euisuk Chung's Paper Review (<a href="https://youtu.be/Y-isY31Thkw"> Video </a>)
 
 
 ## Code Source
-This MLP Mixer code is from `lucidrains` github `mlp-mixer-pytorch`
+This code is from `lucidrains` github `mlp-mixer-pytorch`
 
 <a href="https://github.com/lucidrains/mlp-mixer-pytorch">lucidrains/mlp-mixer-pytorch</a>
 

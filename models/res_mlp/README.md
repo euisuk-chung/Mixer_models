@@ -1,27 +1,25 @@
-<img src="./mlp-mixer.png" width="500px"></img>
+<img src="./res_mlp.png" width="500px"></img>
 
-## ResMLP - Pytorch
+## MLP Mixer (Pytorch)
 
-An <a href="https://arxiv.org/abs/2105.01601"> MLP-Mixer : An all Architecture for Vision </a>, from Google AI, in Pytorch.
+ResMLP: Feedforward networks for image classification with data-efficient training (<a href="https://arxiv.org/abs/2105.03404"> Link </a>)
 
 ## Paper Review
-<a href="https://youtu.be/Y-isY31Thkw">Chung Euisuk Video</a>
+Euisuk Chung's Paper Review (<a href="https://youtu.be/o13XUvgH9ug"> Video </a>)
 
 
 ## Code Source
-This MLP Mixer code is from `lucidrains` github `mlp-mixer-pytorch`
+This code is from `liuruiyang98` github `Jittor-MLP`
 
-<a href="https://github.com/lucidrains/mlp-mixer-pytorch">lucidrains/mlp-mixer-pytorch</a>
+<a href="https://github.com/liuruiyang98/Jittor-MLP">liuruiyang98/Jittor-MLP</a>
 
 ## Citations
 
 ```bibtex
-@misc{tolstikhin2021mlpmixer,
-    title   = {MLP-Mixer: An all-MLP Architecture for Vision},
-    author  = {Ilya Tolstikhin and Neil Houlsby and Alexander Kolesnikov and Lucas Beyer and Xiaohua Zhai and Thomas Unterthiner and Jessica Yung and Daniel Keysers and Jakob Uszkoreit and Mario Lucic and Alexey Dosovitskiy},
-    year    = {2021},
-    eprint  = {2105.01601},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CV}
+@article{touvron2021resmlp,
+  title={Resmlp: Feedforward networks for image classification with data-efficient training},
+  author={Touvron, Hugo and Bojanowski, Piotr and Caron, Mathilde and Cord, Matthieu and El-Nouby, Alaaeldin and Grave, Edouard and Izacard, Gautier and Joulin, Armand and Synnaeve, Gabriel and Verbeek, Jakob and others},
+  journal={arXiv preprint arXiv:2105.03404},
+  year={2021}
 }
 ```
