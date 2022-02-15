@@ -2,7 +2,7 @@
 
 Sparse MLP for Image Recognition: Is Self-Attention Really Necessary? (<a href="https://arxiv.org/abs/2109.05422"> Link </a>)
 
-<img src="./sparse_mlp_v2.png" width="800px"></img>
+<img src="./sparse_mlp.png" width="800px"></img>
 
 ## Paper Review
 Euisuk Chung's Paper Review (To Be Updated)
