@@ -1,12 +1,11 @@
-<img src="./res_mlp.png" width="800px"></img>
-
-## MLP Mixer (Pytorch)
+## ResMLP (Pytorch)
 
 ResMLP: Feedforward networks for image classification with data-efficient training (<a href="https://arxiv.org/abs/2105.03404"> Link </a>)
 
+<img src="./res_mlp.png" width="800px"></img>
+
 ## Paper Review
 Euisuk Chung's Paper Review (<a href="https://youtu.be/o13XUvgH9ug"> Video </a>)
-
 
 ## Code Source
 This code is from `liuruiyang98` github `Jittor-MLP`
